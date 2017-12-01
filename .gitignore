@@ -26,6 +26,10 @@ coverage
 # Bower dependency directory (https://bower.io/)
 bower_components
 
+#ide
+.vscode
+.idea
+
 # node-waf configuration
 .lock-wscript
 
@@ -57,3 +61,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# build and Play
+play
